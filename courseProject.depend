@@ -1,0 +1,141 @@
+# depslib dependency file v1.0
+1631180659 source:f:\projects\projects\courseproject\main.cpp
+	<iostream>
+	"FirstMenu.h"
+
+1631236932 source:f:\projects\projects\courseproject\src\staff.cpp
+	"Staff.h"
+
+1631236932 f:\projects\projects\courseproject\include\staff.h
+	<iostream>
+	"User.h"
+
+1631241874 source:f:\projects\projects\courseproject\src\operationstaff.cpp
+	"OperationStaff.h"
+	<iostream>
+
+1631713742 f:\projects\projects\courseproject\include\operationstaff.h
+	"Staff.h"
+
+1631716786 source:f:\projects\projects\courseproject\src\nurse.cpp
+	"Nurse.h"
+
+1631716786 f:\projects\projects\courseproject\include\nurse.h
+	<iostream>
+	<cstdio>
+	"OperationStaff.h"
+
+1631716627 source:f:\projects\projects\courseproject\src\doctor.cpp
+	"Doctor.h"
+
+1631716215 f:\projects\projects\courseproject\include\doctor.h
+	<iostream>
+	<cstdio>
+	"OperationStaff.h"
+
+1631673748 f:\projects\projects\courseproject\include\user.h
+	<iostream>
+	<iomanip>
+
+1631716831 source:f:\projects\projects\courseproject\src\patient.cpp
+	"Patient.h"
+
+1631716831 f:\projects\projects\courseproject\include\patient.h
+	<iostream>
+	"User.h"
+	<cstdio>
+
+1631715368 source:f:\projects\projects\courseproject\src\user.cpp
+	"User.h"
+
+1631245202 source:f:\projects\projects\courseproject\src\firstmenu.cpp
+	"FirstMenu.h"
+	"Doctor.h"
+	"Nurse.h"
+	"OperationStaff.h"
+	"Patient.h"
+	"Assign.h"
+	"Staff.h"
+	"User.h"
+
+1631149355 f:\projects\projects\courseproject\include\firstmenu.h
+	<iostream>
+
+1631714839 source:f:\projects\projects\courseproject\src\assign.cpp
+	"Assign.h"
+
+1631717190 f:\projects\projects\courseproject\include\assign.h
+	<iostream>
+	<iomanip>
+	<cstdio>
+
+1631177059 source:c:\users\user\onedrive\desktop\hospital project\hospital project\courseproject2\courseproject2\main.cpp
+	<iostream>
+	"FirstMenu.h"
+
+1631145755 c:\users\user\onedrive\desktop\hospital project\hospital project\courseproject2\courseproject2\include\firstmenu.h
+	<iostream>
+
+1631713590 source:c:\users\user\onedrive\desktop\hospital project\hospital project\courseproject2\courseproject2\src\assign.cpp
+	"Assign.h"
+
+1631713590 c:\users\user\onedrive\desktop\hospital project\hospital project\courseproject2\courseproject2\include\assign.h
+	<iostream>
+	<iomanip>
+	<cstdio>
+
+1631713027 source:c:\users\user\onedrive\desktop\hospital project\hospital project\courseproject2\courseproject2\src\doctor.cpp
+	"Doctor.h"
+
+1631712615 c:\users\user\onedrive\desktop\hospital project\hospital project\courseproject2\courseproject2\include\doctor.h
+	<iostream>
+	<cstdio>
+	"OperationStaff.h"
+
+1631710142 c:\users\user\onedrive\desktop\hospital project\hospital project\courseproject2\courseproject2\include\operationstaff.h
+	"Staff.h"
+
+1631233332 c:\users\user\onedrive\desktop\hospital project\hospital project\courseproject2\courseproject2\include\staff.h
+	<iostream>
+	"User.h"
+
+1631670148 c:\users\user\onedrive\desktop\hospital project\hospital project\courseproject2\courseproject2\include\user.h
+	<iostream>
+	<iomanip>
+
+1631241602 source:c:\users\user\onedrive\desktop\hospital project\hospital project\courseproject2\courseproject2\src\firstmenu.cpp
+	"FirstMenu.h"
+	"Doctor.h"
+	"Nurse.h"
+	"OperationStaff.h"
+	"Patient.h"
+	"Assign.h"
+	"Staff.h"
+	"User.h"
+
+1631713186 c:\users\user\onedrive\desktop\hospital project\hospital project\courseproject2\courseproject2\include\nurse.h
+	<iostream>
+	<cstdio>
+	"OperationStaff.h"
+
+1631713231 c:\users\user\onedrive\desktop\hospital project\hospital project\courseproject2\courseproject2\include\patient.h
+	<iostream>
+	"User.h"
+	<cstdio>
+
+1631713590 source:c:\users\user\onedrive\desktop\hospital project\hospital project\courseproject2\courseproject2\src\nurse.cpp
+	"Nurse.h"
+
+1631238274 source:c:\users\user\onedrive\desktop\hospital project\hospital project\courseproject2\courseproject2\src\operationstaff.cpp
+	"OperationStaff.h"
+	<iostream>
+
+1631713590 source:c:\users\user\onedrive\desktop\hospital project\hospital project\courseproject2\courseproject2\src\patient.cpp
+	"Patient.h"
+
+1631233332 source:c:\users\user\onedrive\desktop\hospital project\hospital project\courseproject2\courseproject2\src\staff.cpp
+	"Staff.h"
+
+1631711768 source:c:\users\user\onedrive\desktop\hospital project\hospital project\courseproject2\courseproject2\src\user.cpp
+	"User.h"
+

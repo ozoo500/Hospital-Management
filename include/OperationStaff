@@ -1,0 +1,14 @@
+#ifndef STAFFOPERATION_H
+#define STAFFOPERATION_H
+
+
+class StaffOperation :public Staff
+{
+    public:
+        StaffOperation();
+        ~StaffOperation();
+
+
+};
+
+#endif // STAFFOPERATION_H
